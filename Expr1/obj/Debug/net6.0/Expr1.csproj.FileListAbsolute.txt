@@ -1,0 +1,15 @@
+F:\Users\Mirown\Ulearn-Seminar1\Expr1\obj\Debug\net6.0\Expr1.csproj.AssemblyReference.cache
+F:\Users\Mirown\Ulearn-Seminar1\Expr1\obj\Debug\net6.0\Expr1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\Mirown\Ulearn-Seminar1\Expr1\obj\Debug\net6.0\Expr1.AssemblyInfoInputs.cache
+F:\Users\Mirown\Ulearn-Seminar1\Expr1\obj\Debug\net6.0\Expr1.AssemblyInfo.cs
+F:\Users\Mirown\Ulearn-Seminar1\Expr1\obj\Debug\net6.0\Expr1.csproj.CoreCompileInputs.cache
+F:\Users\Mirown\Ulearn-Seminar1\Expr1\bin\Debug\net6.0\Expr1.exe
+F:\Users\Mirown\Ulearn-Seminar1\Expr1\bin\Debug\net6.0\Expr1.deps.json
+F:\Users\Mirown\Ulearn-Seminar1\Expr1\bin\Debug\net6.0\Expr1.runtimeconfig.json
+F:\Users\Mirown\Ulearn-Seminar1\Expr1\bin\Debug\net6.0\Expr1.dll
+F:\Users\Mirown\Ulearn-Seminar1\Expr1\bin\Debug\net6.0\Expr1.pdb
+F:\Users\Mirown\Ulearn-Seminar1\Expr1\obj\Debug\net6.0\Expr1.dll
+F:\Users\Mirown\Ulearn-Seminar1\Expr1\obj\Debug\net6.0\refint\Expr1.dll
+F:\Users\Mirown\Ulearn-Seminar1\Expr1\obj\Debug\net6.0\Expr1.pdb
+F:\Users\Mirown\Ulearn-Seminar1\Expr1\obj\Debug\net6.0\Expr1.genruntimeconfig.cache
+F:\Users\Mirown\Ulearn-Seminar1\Expr1\obj\Debug\net6.0\ref\Expr1.dll
